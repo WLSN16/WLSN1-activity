@@ -2,7 +2,7 @@ import React from 'react';
 import { TouchableOpacity, StyleSheet, Text, View } from 'react-native';
 import { MaterialCommunityIcons as Icon} from 'react-native-vector-icons';
 
-export default class GameScreen extends React.Component {
+export default class App extends React.Component {
 
 constructor(props){
 super(props);
